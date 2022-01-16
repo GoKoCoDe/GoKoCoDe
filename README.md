@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GoKoCoDe,
+- 👀 I’m interested in Data Analysis, Aviation, Technology, Science, History,
+- 🌱 I’m currently learning Python,
+- 💞️ I’m looking to collaborate on making the world better place,
+- 📫 How to reach me: gkhnt@yahoo.com
